@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 .footer-content {
+=======
+.footer {
+>>>>>>> feature-1
   color: var(--white);
   text-align: center;
 }
@@ -16,7 +20,11 @@
   .footer-logo {
     display: block;
   }
+<<<<<<< HEAD
   .footer-content {
+=======
+  .footer {
+>>>>>>> feature-1
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -34,7 +42,14 @@
     gap: 8px;
   }
   .footer {
+<<<<<<< HEAD
     margin-block-start: 40px;
     margin-block-end: 40px;
   }
 }
+=======
+    padding-block-start: 40px;
+    padding-block-end: 40px;
+  }
+}
+>>>>>>> feature-1

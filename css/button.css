@@ -9,6 +9,11 @@
   border-radius: 4px;
   text-transform: uppercase;
   border: none;
+<<<<<<< HEAD
+=======
+  text-decoration: none;
+  text-align: center;
+>>>>>>> feature-1
 }
 
 .button.is-secondary {
